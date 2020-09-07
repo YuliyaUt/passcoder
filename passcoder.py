@@ -432,18 +432,10 @@ def main():
 
 
 if __name__ == "__main__":
-    # generate_rabin_keys(9)
     # protect_private_key((633352309, 274292311), "mypasswd")
     # print(restore_private_key(protect_private_key((633352309, 274292311), "mypasswd"),"mypasswd"))
     # print(word_to_num("123456", 10000000000000000))
     # print(num_to_word(word_to_num("123456", 1000000000000000)))
-    # /decrypt -k 1_user_private_key.txt -c GM4TIMRVHA2DC===
-    # /decrypt -k 1_user_private_key.txt -c GY4TSNRTGQ3DCOBXGI3DE===
-    # /decrypt -k 1_user_private_key.txt -c G4YDKMRQGA2TONZSHA2TS===
-    # /decrypt -k 1_user_private_key.txt -c GUZTGNJZGI2DQMBZGI2TC===      2
-    # /decrypt -k 1_user_private_key.txt -c GE4TKOBUGEYDMMJVGIZDMOI=
-    # /decrypt -k user_private_key.txt -c GE2TOMJSGUYTANBSGQZDGNI=
-    # /decrypt -k user_private_key.txt -c GIYTONZQGY2TOMJWGAYTCMI= 8
     # /decrypt -k user_private_key-protected.txt -c G44TGMZXGYYTQNRWGE2TENZWGU3A====
     # /encrypt -k user_public_key-protected.txt -p 124567
     # password is bullbullbull
